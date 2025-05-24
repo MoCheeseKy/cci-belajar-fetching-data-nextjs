@@ -1,0 +1,150 @@
+{
+  "mahasigma": [
+    {
+      "id": 1,
+      "nama": "Ismail Ahmad Kanabawi",
+      "nim": "10001",
+      "kelas": "SE-48-01",
+      "jurusan": "Rekayasa Perangkat Lunak",
+      "fakultas": "Informatika"
+    },
+    {
+      "id": 2,
+      "nama": "Usman Abdul Jalil",
+      "nim": "10002",
+      "kelas": "SE-48-02",
+      "jurusan": "Rekayasa Perangkat Lunak",
+      "fakultas": "Informatika"
+    },
+    {
+      "id": 3,
+      "nama": "Khalid Kashmiri",
+      "nim": "10003",
+      "kelas": "SE-48-03",
+      "jurusan": "Rekayasa Perangkat Lunak",
+      "fakultas": "Informatika"
+    },
+    {
+      "id": 4,
+      "nama": "Muhammad Sumbul",
+      "nim": "10004",
+      "kelas": "SE-48-04",
+      "jurusan": "Rekayasa Perangkat Lunak",
+      "fakultas": "Informatika"
+    },
+    {
+      "id": 5,
+      "nama": "Khidir Karawita",
+      "nim": "10005",
+      "kelas": "IF-48-01",
+      "jurusan": "Teknik Informatika",
+      "fakultas": "Informatika"
+    },
+    {
+      "id": 6,
+      "nama": "Yaqub Qamar Ad Din Dibiazah",
+      "nim": "10006",
+      "kelas": "IF-48-02",
+      "jurusan": "Teknik Informatika",
+      "fakultas": "Informatika"
+    }
+  ],
+  "animek": [
+    {
+      "id": 1,
+      "judul": "Naruto Shippuden",
+      "deskripsi": "Kelanjutan dari kisah Naruto Uzumaki yang berjuang untuk menjadi Hokage.",
+      "score": 8.6,
+      "genre": ["Action", "Adventure", "Martial Arts"],
+      "eps": 500,
+      "tahun": 2007,
+      "detail": {
+        "studio": "Studio Pierrot",
+        "produser": "TV Tokyo",
+        "sinopsis": "Naruto kembali ke desa setelah berlatih dengan Jiraiya, menghadapi organisasi Akatsuki dan menyelamatkan teman-temannya.",
+        "durasi": "23 menit",
+        "rating": "PG-13"
+      }
+    },
+    {
+      "id": 2,
+      "judul": "Dragon Ball Z",
+      "deskripsi": "Petualangan Goku dan teman-temannya dalam melindungi bumi dari berbagai ancaman.",
+      "score": 8.7,
+      "genre": ["Action", "Martial Arts", "Fantasy"],
+      "eps": 291,
+      "tahun": 1989,
+      "detail": {
+        "studio": "Toei Animation",
+        "produser": "Fuji TV",
+        "sinopsis": "Goku dan kawan-kawan melawan penjahat seperti Frieza, Cell, dan Majin Buu dalam pertarungan epik.",
+        "durasi": "24 menit",
+        "rating": "PG"
+      }
+    },
+    {
+      "id": 3,
+      "judul": "Enen no Shouboutai (Fire Force)",
+      "deskripsi": "Petualangan pasukan pemadam kebakaran melawan manusia yang berubah menjadi api.",
+      "score": 7.8,
+      "genre": ["Action", "Supernatural"],
+      "eps": 48,
+      "tahun": 2019,
+      "detail": {
+        "studio": "David Production",
+        "produser": "Kodansha",
+        "sinopsis": "Shinra Kusakabe bergabung dengan Special Fire Force Company 8 untuk menghentikan fenomena manusia terbakar spontan.",
+        "durasi": "24 menit",
+        "rating": "PG-13"
+      }
+    },
+    {
+      "id": 4,
+      "judul": "Koe no Katachi (A Silent Voice)",
+      "deskripsi": "Kisah tentang penebusan dan penerimaan atas perbuatan masa lalu.",
+      "score": 9.0,
+      "genre": ["Drama", "Slice of Life"],
+      "eps": 1,
+      "tahun": 2016,
+      "detail": {
+        "studio": "Kyoto Animation",
+        "produser": "Shochiku",
+        "sinopsis": "Shouya Ishida membully seorang gadis tuli, Shouko Nishimiya. Bertahun-tahun kemudian, ia mencoba menebus kesalahannya.",
+        "durasi": "129 menit",
+        "rating": "PG-13"
+      }
+    },
+    {
+      "id": 5,
+      "judul": "Kimi no Na wa (Your Name)",
+      "deskripsi": "Dua remaja yang tidak saling kenal bertukar tubuh secara misterius.",
+      "score": 8.9,
+      "genre": ["Romance", "Drama", "Supernatural"],
+      "eps": 1,
+      "tahun": 2016,
+      "detail": {
+        "studio": "CoMix Wave Films",
+        "produser": "Noritaka Kawaguchi",
+        "sinopsis": "Taki dan Mitsuha bertukar tubuh dan berusaha menemukan satu sama lain di tengah kejadian aneh dan waktu yang memisahkan mereka.",
+        "durasi": "106 menit",
+        "rating": "PG-13"
+      }
+    },
+    {
+      "id": 6,
+      "judul": "Karakai Jouzu no Takagi-san",
+      "deskripsi": "Kehidupan dua pelajar SMP, Takagi dan Nishikata, yang saling menggodai setiap hari.",
+      "score": 7.7,
+      "genre": ["Romance", "Comedy", "Slice of Life"],
+      "eps": 12,
+      "tahun": 2018,
+      "detail": {
+        "studio": "Shin-Ei Animation",
+        "produser": "TOHO Animation",
+        "sinopsis": "Nishikata selalu mencoba membalas godaan Takagi, tetapi selalu gagal.",
+        "durasi": "23 menit",
+        "rating": "G"
+      }
+    }
+  ]
+}
